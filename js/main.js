@@ -6,16 +6,18 @@ $(document).ready(function() {
     $("#play-button").click(playSlideShow);
 
     function playSlideShow() {
-        $("#slide--0").fadeIn(2000).delay(3000).fadeOut(2000);
-        $("#slide--1").delay(7000).fadeIn(2000).delay(3000).fadeOut(2000);
-        $("#slide--2").delay(14000).fadeIn(2000).delay(3000).fadeOut(2000);
-        $("#slide--3").delay(21000).fadeIn(2000).delay(3000).fadeOut(2000);
-        $("#slide--4").delay(28000).fadeIn(2000).delay(3000).fadeOut(2000);
-        $("#slide--5").delay(35000).fadeIn(2000).delay(3000).fadeOut(2000);
-        $("#slide--6").delay(42000).fadeIn(2000).delay(3000).fadeOut(2000);
-        $("#slide--7").delay(49000).fadeIn(2000).delay(3000).fadeOut(2000);
-        $("#slide--8").delay(56000).fadeIn(2000).delay(3000).fadeOut(2000);
-        $("#slide--9").delay(63000).fadeIn(2000).delay(3000).fadeOut(2000);
+        $("#instructions").fadeOut(1000);
+        $("#slide--0").delay(1000).fadeIn(2000).delay(3000).fadeOut(2000);
+        $("#slide--1").delay(8000).fadeIn(2000).delay(3000).fadeOut(2000);
+        $("#slide--2").delay(15000).fadeIn(2000).delay(3000).fadeOut(2000);
+        $("#slide--3").delay(22000).fadeIn(2000).delay(3000).fadeOut(2000);
+        $("#slide--4").delay(29000).fadeIn(2000).delay(3000).fadeOut(2000);
+        $("#slide--5").delay(36000).fadeIn(2000).delay(3000).fadeOut(2000);
+        $("#slide--6").delay(43000).fadeIn(2000).delay(3000).fadeOut(2000);
+        $("#slide--7").delay(50000).fadeIn(2000).delay(3000).fadeOut(2000);
+        $("#slide--8").delay(57000).fadeIn(2000).delay(3000).fadeOut(2000);
+        $("#slide--9").delay(64000).fadeIn(2000).delay(3000).fadeOut(2000);
+        $("#instructions").delay(71000).fadeIn(2000);
     }
 
    function makeSlides(imageList) {
