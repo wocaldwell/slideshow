@@ -1,0 +1,18 @@
+* {
+  text-align: center;
+}
+
+#slide-container {
+  margin: 0 auto;
+  min-height: 450px;
+}
+
+img {
+  margin: 1% 0;
+  height: 300px;
+}
+
+.img-description {
+  text-align: justify;
+  margin: 0 1%;
+}

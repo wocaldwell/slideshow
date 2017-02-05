@@ -1,0 +1,55 @@
+{
+    "images": [
+        {
+            "name": "Bleeding Tooth",
+            "description": "Hydnellum peckii is an inedible (though not toxic) fungus, and a member of the genus Hydnellum of the family Bankeraceae. It is a hydnoid species, producing spores on the surface of vertical spines or tooth-like projections that hang from the undersurface of the fruit bodies. It is found in North America, Europe, and was recently discovered in Iran (2008) and Korea (2010). Hydnellum peckii is a mycorrhizal species, and forms mutually beneficial relationships with a variety of coniferous trees, growing on the ground singly, scattered, or in fused masses.",
+            "url": "images/bleeding-tooth-fungus.jpg"
+        },
+        {
+            "name": "Chicken of the Woods",
+            "description": "Laetiporus is a genus of edible mushrooms found throughout much of the world. Some species, especially Laetiporus sulphureus, are commonly known as sulphur shelf, chicken of the woods, the chicken mushroom, or the chicken fungus because many think they taste like chicken. The name 'chicken of the woods' is not to be confused with the edible polypore, Maitake (Grifola frondosa) known as 'hen of the woods,' or with Lyophyllum decastes, known as the 'fried chicken mushroom.'",
+            "url": "images/chicken-of-the-woods.jpg"
+        },
+        {
+            "name": "Cobalt Crust",
+            "description": "Terana caerulea (or Terana coerulea), commonly known as the cobalt crust fungus or velvet blue spread, is a saprobic crust fungus in the family Phanerochaetaceae. Usually found in warm, damp hardwood forests on the undersides of fallen logs and branches of deciduous trees, this unique fungus has been described as 'blue velvet on a stick'. This species was chosen as fungus of the year for 2009 by the German Mycological Society.",
+            "url": "images/cobalt-crust.jpg"
+        },
+        {
+            "name": "Death Cap",
+            "description": "Amanita phalloides /æməˈnaɪtə fəˈlɔɪdiːz/, commonly known as the death cap, is a deadly poisonous basidiomycete fungus, one of many in the genus Amanita. Widely distributed across Europe, A. phalloides forms ectomycorrhizas with various broadleaved trees. In some cases, the death cap has been introduced to new regions with the cultivation of non-native species of oak, chestnut, and pine. The large fruiting bodies (mushrooms) appear in summer and autumn; the caps are generally greenish in colour, with a white stipe and gills.",
+            "url": "images/death-cap.jpg"
+        },
+        {
+            "name": "Fly Agaric",
+            "description": "Amanita muscaria, commonly known as the fly agaric or fly amanita, is a mushroom and psychoactive basidiomycete fungus, one of many in the genus Amanita. Native throughout the temperate and boreal regions of the Northern Hemisphere, Amanita muscaria has been unintentionally introduced to many countries in the Southern Hemisphere, generally as a symbiont with pine and birch plantations, and is now a true cosmopolitan species. It associates with various deciduous and coniferous trees.",
+            "url": "images/fly-agaric.jpg"
+        },
+        {
+            "name": "Funeral Bell",
+            "description": "Galerina marginata is a species of poisonous fungus in the family Hymenogastraceae of the order Agaricales. Prior to 2001, the species G. autumnalis, G. oregonensis, G. unicolor, and G. venenata were thought to be separate due to differences in habitat and the viscidity of their caps, but phylogenetic analysis showed that they are all the same species.",
+            "url": "images/funeral-bell.jpg"
+        },
+        {
+            "name": "Dark-Scaled Knight",
+            "description": "Tricholoma atrosquamosum, commonly known as dark-scaled knight, is an edible gilled mushroom native to Europe. The grey-capped fruit bodies are generally found singly or in small groups in deciduous woodland on chalk-based soils.",
+            "url": "images/knight-tricholoma-atrosquamosum-var.-squarrulosum.jpg"
+        },
+        {
+            "name": "Oyster Mushroom",
+            "description": "Pleurotus ostreatus, the oyster mushroom, is a common edible mushroom. It was first cultivated in Germany as a subsistence measure during World War I[2] and is now grown commercially around the world for food. It is related to the similarly cultivated king oyster mushroom. Oyster mushrooms can also be used industrially for mycoremediation purposes.",
+            "url": "images/oyster-mushroom.jpg"
+        },
+        {
+            "name": "Wrinkled Thimble Morel",
+            "description": "Verpa bohemica is a species of fungus in the family Morchellaceae. Commonly known as the early morel (or early false morel) or the wrinkled thimble-cap, it is one of several species known informally as a 'false morel'. The mushroom has a pale yellow or brown thimble-shaped cap—2 to 4 cm (0.8 to 1.6 in) in diameter by 2 to 5 cm (0.8 to 2.0 in) long—that has a surface wrinkled and ribbed with brain-like convolutions. The cap hangs from the top of a lighter-colored, brittle stem that measures up to 12 cm (4.7 in) long by 1 to 2.5 cm (0.4 to 1.0 in) thick. Microscopically, the mushroom is distinguished by its large spores, typically 60–80 by 15–18 µm, and the presence of only two spores per ascus.",
+            "url": "images/wrinkled-thimble-morel.jpg"
+        },
+        {
+            "name": "Blushing Beard Truffle",
+            "description": "Rhizopogon roseolus",
+            "url": "images/blushing-beard-truffle.jpg"
+        }
+
+    ]
+}
